@@ -1,0 +1,10 @@
+{
+  "name": "yarn-bug",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "eslint": "8.4.1",
+    "webpack-dev-server": "3.11.3"
+  },
+  "packageManager": "yarn@3.1.1"
+}
